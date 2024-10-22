@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samtiahmed/Desktop/VG3/C#Project/myBackend/myBackend.csproj": {}
+    "/Users/samtiahmed/Desktop/VG3/CSharpProject/myBackend/myBackend.csproj": {}
   },
   "projects": {
-    "/Users/samtiahmed/Desktop/VG3/C#Project/myBackend/myBackend.csproj": {
+    "/Users/samtiahmed/Desktop/VG3/CSharpProject/myBackend/myBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samtiahmed/Desktop/VG3/C#Project/myBackend/myBackend.csproj",
+        "projectUniqueName": "/Users/samtiahmed/Desktop/VG3/CSharpProject/myBackend/myBackend.csproj",
         "projectName": "myBackend",
-        "projectPath": "/Users/samtiahmed/Desktop/VG3/C#Project/myBackend/myBackend.csproj",
+        "projectPath": "/Users/samtiahmed/Desktop/VG3/CSharpProject/myBackend/myBackend.csproj",
         "packagesPath": "/Users/samtiahmed/.nuget/packages/",
-        "outputPath": "/Users/samtiahmed/Desktop/VG3/C#Project/myBackend/obj/",
+        "outputPath": "/Users/samtiahmed/Desktop/VG3/CSharpProject/myBackend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/samtiahmed/.nuget/NuGet/NuGet.Config"
