@@ -1,5 +1,7 @@
 #!/bin/bash
 
+kill -9 $(lsof -t -i :5101)
+
 clear
 
 echo "Starting .NET Backend..."
